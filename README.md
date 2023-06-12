@@ -1,7 +1,7 @@
 # Lucas-pattern
 hackclub/haxidraw Lucas Pattern
 
-# How to use?
+# Pattern 1
 
 ```js
 const t = new Turtle();
@@ -17,4 +17,7 @@ t.forward(0);
 
 drawTurtles(t);
 ```
+
+# How to use?
+
 ### Replace 0's with random numbers and have fun!
